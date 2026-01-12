@@ -6,7 +6,6 @@ fun main() {
     var opcion: Int = 0
     //Menu debe tener minimo 5 opciones , la quinta es la salida
     do {
-        System.out.flush()
         print("Menu de opciones:\n")
         print("1. Opcion 1\n")
         print("2. Opcion 2\n")
